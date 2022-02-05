@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development  
 - 🌱 I’m currently learning backend   
 - 💞️ I’m looking to collaborate on frontend
-- 📫 How to reach me ...
+- 📫 You can reach me at mateensz17@gmail.com
 
 <!---
 arshyaan1717/arshyaan1717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
